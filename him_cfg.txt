@@ -1,1 +1,1 @@
-{"url_server":"https://beta2.dotcomsolution.co.id/himalaya/public/api/","version":"1.0","envi":"block"}
+{"url_server":"https://beta2.dotcomsolution.co.id/himalaya/public/api/","version":"1.0","envi":"block","envi_message":"Apps is Live"}
