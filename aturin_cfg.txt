@@ -1,0 +1,1 @@
+{"url_server":"https://staging.aturin.id/api/","media_url_server":"https://staging.media.aturin.id","version":"1.0","envi":"allow","envi_message":"Apps is live"}
