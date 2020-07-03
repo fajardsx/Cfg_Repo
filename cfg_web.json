@@ -30,23 +30,24 @@
         "description": "elit, sed do eiusmod tempor incididunt ut labore",
         "type": "Mobile Apps",
         "platform": "Android",
-		"status":"release",
-		"link":""
+        "status": "release",
+        "link": ""
       }
-    },{
+    },
+    {
       "thumb": "https://fajarman.000webhostapp.com/adminapp/content/submit/images/unnamed (1).webp",
       "title": "Lautan Luas (OnLtL)",
       "showhome": false,
       "detail": {
         "titledetail": "Lautan Luas (OnLtL)",
         "gallery": [
-          "https://fajarman.000webhostapp.com/adminapp/content/submit/images/unnamed (1).webp",
+          "https://fajarman.000webhostapp.com/adminapp/content/submit/images/unnamed (1).webp"
         ],
         "description": "elit, sed do eiusmod tempor incididunt ut labore",
         "type": "Mobile Apps",
         "platform": "Android",
-		"status":"release",
-		"link":""
+        "status": "release",
+        "link": ""
       }
     }
   ],
@@ -64,10 +65,11 @@
         "description": "elit, sed do eiusmod tempor incididunt ut labore",
         "type": "Game",
         "platform": "Facebook Apps",
-		"status":"take out",
-		"link":""
+        "status": "take out",
+        "link": ""
       }
-    },{
+    },
+    {
       "thumb": "https://fajarman.000webhostapp.com/adminapp/content/submit/images/unnamed (1).webp",
       "title": "Lautan Luas (OnLtL)",
       "showhome": false,
@@ -80,8 +82,8 @@
         "description": "elit, sed do eiusmod tempor incididunt ut labore",
         "type": "Game",
         "platform": "Facebook Apps",
-		"status":"take out",
-		"link":""
+        "status": "take out",
+        "link": ""
       }
     }
   ],
@@ -89,8 +91,9 @@
     {
       "skill_img": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
       "skill_title": "React Native",
-      "skill_level": 80,
-    }, {
+      "skill_level": 80
+    },
+    {
       "skill_img": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
       "skill_title": "React JS",
       "skill_level": 65
