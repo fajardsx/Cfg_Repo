@@ -1,1 +1,1 @@
-{"url":"http://202.145.0.234:12901/live"}
+{"url":"http://202.145.0.234:12901/live","iosshow":0,"androidshow":1}
