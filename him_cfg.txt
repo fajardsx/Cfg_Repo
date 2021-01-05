@@ -1,1 +1,1 @@
-{"url_server_debug":"https://beta2.dotcomsolution.co.id/himalaya/public/api/","url_server":"http://himalayafrontline.com/public/api/","version":"1.0","envi":"allow","envi_message":"Apps is Block"}
+{"url_server_debug":"https://beta2.dotcomsolution.co.id/himalaya/public/api/","url_server":"https://himalayafrontline.com/public/api/","version":"1.0","envi":"allow","envi_message":"Apps is Block"}
