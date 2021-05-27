@@ -1,1 +1,1 @@
-{"url_server":"https://lautanluas.pelangisentralkreasi.co.id/","url_server_beta":"http://3.1.201.136/public/api/","version":"1.0","envi":"allow","envi_message":"Apps is Block"}
+{"url_server":"https://lautanluas.pelangisentralkreasi.co.id/api/","url_server_beta":"http://3.1.201.136/public/api/","version":"1.0","envi":"allow","envi_message":"Apps is Block"}
