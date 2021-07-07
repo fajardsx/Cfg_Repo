@@ -1,4 +1,5 @@
 {
+"uri":"https://dashboard.getprims.com/"
 	"apps_version":"1.0",
 	"bundle_version":"1"
 }
