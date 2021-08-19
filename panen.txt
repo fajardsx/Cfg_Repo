@@ -1,1 +1,1 @@
-{"url":"http://202.145.0.234:12901/live","rest_urls":"https://panensaham.com/api/","iosshow":"0","androidshow":"1"}
+{"url":"http://202.145.0.234:12901/live","rest_urls":"https://panensaham.com/api/","iosshow":"1","androidshow":"1"}
