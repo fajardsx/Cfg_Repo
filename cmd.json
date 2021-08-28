@@ -1,0 +1,158 @@
+{
+  "CHART": [
+    {
+      "id": 1,
+      "nama": "/cma",
+      "value": 1,
+      "deskripsi": "/cma = Chart Moving Average"
+    },
+    {
+      "id": 2,
+      "nama": "/cco",
+      "value": 2,
+      "deskripsi": "/cco = Chart Bulang"
+    },
+    {
+      "id": 3,
+      "nama": "/cal",
+      "value": 3,
+      "deskripsi": "/cal = Chart Buaya"
+    },
+    {
+      "id": 4,
+      "nama": "/cah",
+      "value": 4,
+      "deskripsi": "/cah = Chart Good Swing"
+    },
+    {
+      "id": 5,
+      "nama": "/cha",
+      "value": 5,
+      "deskripsi": "/cha = Chart Ikan Asin"
+    },
+    {
+      "id": 6,
+      "nama": "/odt",
+      "value": 6,
+      "deskripsi": "/odt = Chart Cepetan Buy"
+    },
+    {
+      "id": 7,
+      "nama": "/ctl",
+      "value": 7,
+      "deskripsi": "/ctl = Chart MultiTrendline"
+    },
+    {
+      "id": 8,
+      "nama": "/cgp",
+      "value": 8,
+      "deskripsi": "/cgp = Chart Selendang Guppy"
+    },
+    {
+      "id": 9,
+      "nama": "/psl",
+      "value": 9,
+      "deskripsi": "/psl = Chart Triangle line"
+    },
+    {
+      "id": 10,
+      "nama": "/cfr",
+      "value": 10,
+      "deskripsi": "/cfr = Chart Performance"
+    }
+  ],
+  "FILTER": [
+    {
+      "id": 1,
+      "nama": "bulang/",
+      "value": 1,
+      "deskripsi": "bulang/ =Filter bulang"
+    },
+    {
+      "id": 2,
+      "nama": "swb/",
+      "value": 2,
+      "deskripsi": "swb/ =Filter swing buy"
+    },
+    {
+      "id": 3,
+      "nama": "cfn/",
+      "value": 3,
+      "deskripsi": "cfn/ =Filter undangan"
+    },
+    {
+      "id": 4,
+      "nama": "ps20/",
+      "value": 4,
+      "deskripsi": "ps20/ =Filter support 20"
+    },
+    {
+      "id": 5,
+      "nama": "hold/",
+      "value": 5,
+      "deskripsi": "hold/ =Filter keep"
+    },
+    {
+      "id": 6,
+      "nama": "asin/",
+      "value": 6,
+      "deskripsi": "asin/ =Filter ikan asi"
+    },
+    {
+      "id": 7,
+      "nama": "ps200/",
+      "value": 7,
+      "deskripsi": "ps200/ =Filter support 200"
+    }
+  ],
+  "INTERVAL": [
+    {
+      "id": 1,
+      "nama": "dd",
+      "value": 1,
+      "deskripsi": "05= 5 minutes"
+    },
+    {
+      "id": 2,
+      "nama": "ww",
+      "value": 2,
+      "deskripsi": "hh= Hourly"
+    },
+    {
+      "id": 3,
+      "nama": "4h",
+      "value": 3,
+      "deskripsi": "15= 15 minutes"
+    },
+    {
+      "id": 4,
+      "nama": "hh",
+      "value": 4,
+      "deskripsi": "4h= 4 Hours"
+    },
+    {
+      "id": 5,
+      "nama": "30",
+      "value": 5,
+      "deskripsi": "30= 30 minutes"
+    },
+    {
+      "id": 6,
+      "nama": "15",
+      "value": 6,
+      "deskripsi": "dd = dialy"
+    },
+    {
+      "id": 7,
+      "nama": "05",
+      "value": 7,
+      "deskripsi": ""
+    },
+    {
+      "id": 8,
+      "nama": "01",
+      "value": 8,
+      "deskripsi": ""
+    }
+  ]
+}
