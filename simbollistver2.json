@@ -206,7 +206,6 @@
     "VELOIDR",
     "XVXIDR"
   ],
-
 "CRYPTO USDT": [
 "BTCUSDT",
 "ETHUSDT",
@@ -569,4 +568,5 @@
 "DOTDOWNUSDT",
 "LTCUPUSDT",
 "LTCDOWNUSDT"
-],}
+]
+}
