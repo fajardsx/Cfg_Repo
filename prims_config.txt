@@ -2,7 +2,7 @@
 "uri":"https://staging.getprims.com/",
 "uri_old":"https://dashboard.getprims.com/",
 	"apps_version":"1.0",
-	"bundle_version":"1",
+	"bundle_version":"2",
 	"is_maintenis":"false",
 	"all_access":"false"
 }
