@@ -1,5 +1,6 @@
 {
 "uri":"https://staging.getprims.com/",
+"uri_pro":"https://getprims.com/",
 "uri_old":"https://dashboard.getprims.com/",
 	"apps_version":"1.0",
 	"bundle_version":"2",
