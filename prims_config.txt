@@ -7,6 +7,5 @@
 	"is_maintenis":"false",
 	"applink":"https://play.google.com/store/apps/details?id=com.prims.client",
 	"all_access":"false",
-	"EN":"https://raw.githubusercontent.com/fajardsx/Directory_Asset/main/P_EN.json",
-	"ID":"https://raw.githubusercontent.com/fajardsx/Directory_Asset/main/P_ID.json"
+	"LANG":"https://raw.githubusercontent.com/fajardsx/Directory_Asset/main/P_LANG.json"
 }
