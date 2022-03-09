@@ -1,0 +1,42 @@
+{
+  "production": {
+    "uri": "https://dashboard.getprims.com/",
+    "uri_pro": "https://getprims.com/",
+    "apps_version": "1.0",
+    "bundle_version": "2",
+    "is_maintenis": "false",
+    "applink": "https://play.google.com/store/apps/details?id=com.prims.client",
+    "all_access": "false",
+    "LANG": "https://raw.githubusercontent.com/fajardsx/Directory_Asset/main/P_LANG.json"
+  },
+  "development": {
+    "uri": "https://staging.getprims.com/",
+    "uri_pro": "https://getprims.com/",
+    "apps_version": "1.0",
+    "bundle_version": "2",
+    "is_maintenis": "false",
+    "applink": "https://play.google.com/store/apps/details?id=com.prims.client",
+    "all_access": "false",
+    "LANG": "https://raw.githubusercontent.com/fajardsx/Directory_Asset/main/P_LANG.json",
+    "MENU_HOME": {
+      "0": {
+        "title": "Residen",
+        "icons": "",
+        "router": "",
+        "enable": "false"
+      },
+      "1": {
+        "title": "Olahraga",
+        "icons": "",
+        "router": "",
+        "enable": "false"
+      },
+      "2": {
+        "title": "Servis",
+        "icons": "",
+        "router": "",
+        "enable": "true"
+      }
+    }
+  }
+}
