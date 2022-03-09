@@ -7,7 +7,27 @@
     "is_maintenis": "false",
     "applink": "https://play.google.com/store/apps/details?id=com.prims.client",
     "all_access": "false",
-    "LANG": "https://raw.githubusercontent.com/fajardsx/Directory_Asset/main/P_LANG.json"
+    "LANG": "https://raw.githubusercontent.com/fajardsx/Directory_Asset/main/P_LANG.json",
+    "MENU_HOME": {
+      "0": {
+        "title": "Residen",
+        "icons": "iconResident",
+        "router": "HomeDasboard",
+        "enable": "false"
+      },
+      "1": {
+        "title": "Olahraga",
+        "icons": "iconOlahRaga",
+        "router": "ScreenOlahraga",
+        "enable": "false"
+      },
+      "2": {
+        "title": "Servis",
+        "icons": "iconServis",
+        "router": "ScreenServisHome",
+        "enable": "true"
+      }
+    }
   },
   "development": {
     "uri": "https://staging.getprims.com/",
@@ -21,20 +41,20 @@
     "MENU_HOME": {
       "0": {
         "title": "Residen",
-        "icons": "",
-        "router": "",
+        "icons": "iconResident",
+        "router": "HomeDasboard",
         "enable": "false"
       },
       "1": {
         "title": "Olahraga",
-        "icons": "",
-        "router": "",
+        "icons": "iconOlahRaga",
+        "router": "ScreenOlahraga",
         "enable": "false"
       },
       "2": {
         "title": "Servis",
-        "icons": "",
-        "router": "",
+        "icons": "iconServis",
+        "router": "ScreenServisHome",
         "enable": "true"
       }
     }
