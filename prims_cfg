@@ -46,7 +46,7 @@
         "enable": "false"
       },
       "1": {
-        "title": "Fasilitas Olahraga",
+        "title": "Fasilitas\nOlahraga",
         "icons": "iconOlahRaga",
         "router": "ScreenOlahraga",
         "enable": "true"
