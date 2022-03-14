@@ -16,7 +16,7 @@
         "enable": "false"
       },
       "1": {
-        "title": "Fasilitas Olahraga",
+        "title": "Olahraga",
         "icons": "iconOlahRaga",
         "router": "ScreenOlahraga",
         "enable": "false"
@@ -52,7 +52,7 @@
         "enable": "true"
       },
       "2": {
-        "title": "Servis",
+        "title": "Services",
         "icons": "iconServis",
         "router": "ScreenServisHome",
         "enable": "true"
