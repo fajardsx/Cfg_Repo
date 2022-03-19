@@ -16,7 +16,7 @@
         "enable": "false"
       },
       "1": {
-        "title": "Olahraga",
+        "title": "Fasilitas\nOlahraga",
         "icons": "iconOlahRaga",
         "router": "ScreenOlahraga",
         "enable": "false"
