@@ -43,7 +43,7 @@
         "title": "Residen",
         "icons": "iconResident",
         "router": "HomeDasboard",
-        "enable": "false"
+        "enable": "true"
       },
       "1": {
         "title": "Fasilitas\nOlahraga",
