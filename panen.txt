@@ -1,1 +1,1 @@
-{"url":"http://103.163.161.140:8024/stream","urltest":"https://stream-ssl.arenastreaming.com:8024/stream","urlold2":"http://103.102.177.226:12901/live","urlold":"http://202.145.0.234:12901/live","rest_urls":"https://www.panensaham.com/api/","iosshow":"1","androidshow":"1"}
+{"urlolds":"http://103.163.161.140:8024/stream","url":"https://stream-ssl.arenastreaming.com:8024/stream","urlold2":"http://103.102.177.226:12901/live","urlold":"http://202.145.0.234:12901/live","rest_urls":"https://www.panensaham.com/api/","iosshow":"1","androidshow":"1"}
