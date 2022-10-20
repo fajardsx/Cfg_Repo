@@ -1,0 +1,32 @@
+[
+    {
+      "id": "31",
+      "name": "Ikan Palmas",
+      "latin": "Polypterus Sp",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998586\/bukusaku\/ikan_palmas_mpcrne.png"
+    },
+    {
+      "id": "32",
+      "name": "Ikan Belida",
+      "latin": "Chitala Ornata",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998582\/bukusaku\/ikan_belida_kjtav4.png"
+    },
+    {
+      "id": "33",
+      "name": "Ikan Aligator Gar",
+      "latin": "Atractosteus Spatula",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998580\/bukusaku\/ikan_aligator_gar_todolc.png"
+    },
+    {
+      "id": "34",
+      "name": "Oscar",
+      "latin": "Astronotus Ocellatus",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998586\/bukusaku\/ikan_oscar_pbmpae.png"
+    },
+    {
+      "id": "35",
+      "name": "Red Tail Catfish",
+      "latin": "Phractocephalus Hemioliopterus",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998587\/bukusaku\/ikan_red_tailed_catfish_resm8z.png"
+    }
+  ]

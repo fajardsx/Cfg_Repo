@@ -1,0 +1,182 @@
+[
+    {
+      "id": "1",
+      "name": "Ikan Guppy",
+      "latin": "Poecilia Reticulata",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998584\/bukusaku\/ikan_guppy_rzdmkb.png"
+    },
+    {
+      "id": "2",
+      "name": "Ikan Cupang",
+      "latin": "Betta Spledens",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998583\/bukusaku\/ikan_cupang_pomimi.png"
+    },
+    {
+      "id": "3",
+      "name": "Ikan Platis",
+      "latin": "Xiphophorus Sp",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998587\/bukusaku\/ikan_platy_dxt6vs.png"
+    },
+    {
+      "id": "4",
+      "name": "Ikan Molly",
+      "latin": "Poecilia Sp",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998585\/bukusaku\/ikan_molly_wv1r4b.png"
+    },
+    {
+      "id": "5",
+      "name": "Ikan Black Tetra",
+      "latin": "Gymnocorymbus Ternetzi",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998583\/bukusaku\/ikan_black_tetra_dmvm4m.png"
+    },
+    {
+      "id": "6",
+      "name": "Ikan Sumatera",
+      "latin": "Puntigrus Tetrazona",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998589\/bukusaku\/ikan_sumatra_q8onrx.png"
+    },
+    {
+      "id": "7",
+      "name": "Ikan Kaca",
+      "latin": "Parambassis Sp",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998584\/bukusaku\/ikan_kaca_p45hcd.png"
+    },
+    {
+      "id": "8",
+      "name": "Ikan Neon Tetra",
+      "latin": "Paracheiron Innesi",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998585\/bukusaku\/ikan_neon_tetra_mcsqyz.png"
+    },
+    {
+      "id": "9",
+      "name": "Ikan Danio Zebra",
+      "latin": "Danio Rerio",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998590\/bukusaku\/ikan_zebra_bezpau.png"
+    },
+    {
+      "id": "10",
+      "name": "Galaxy Rasbora",
+      "latin": "Celestichthys Margaritatus",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998587\/bukusaku\/ikan_rasbora_galaxy_h9cexk.png"
+    },
+    {
+      "id": "11",
+      "name": "Ramirezi",
+      "latin": "Microgeophagus Ramirezi",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998587\/bukusaku\/ikan_ramirezi_ltkcfo.png"
+    },
+    {
+      "id": "12",
+      "name": "Niasa",
+      "latin": "Melanochromis Auratus",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998586\/bukusaku\/ikan_niasa_cj780f.png"
+    },
+    {
+      "id": "13",
+      "name": "Lemon Yellow Lab Chiclid",
+      "latin": "Labidochromis Caeruleus",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998584\/bukusaku\/ikan_lemon_dc7in4.png"
+    },
+    {
+      "id": "14",
+      "name": "White Snow Chiclid",
+      "latin": "Pseudotropheus Socolofi",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998589\/bukusaku\/ikan_snow_white_udlpkt.png"
+    },
+    {
+      "id": "15",
+      "name": "Thinfoil Barb",
+      "latin": "Barbonymus Schwanenfeldii",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998585\/bukusaku\/ikan_kapiat_cnvhda.png"
+    },
+    {
+      "id": "16",
+      "name": "Sarpaee Tetra",
+      "latin": "Hyphessobrycon Eques",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998588\/bukusaku\/ikan_sarpae_cx4jal.png"
+    },
+    {
+      "id": "17",
+      "name": "Rummy Nose",
+      "latin": "Hemigrammus Rhodostomus",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998588\/bukusaku\/ikan_rummy_nose_kjbetf.png"
+    },
+    {
+      "id": "18",
+      "name": "Sae",
+      "latin": "Crossocheilus Oblongus",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998588\/bukusaku\/ikan_sae_gzqdun.png"
+    },
+    {
+      "id": "19",
+      "name": "Cae",
+      "latin": "Gyrinocheilus Aymonieri",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998581\/bukusaku\/ikan_cae_xf1olc.png"
+    },
+    {
+      "id": "20",
+      "name": "Synodhentis",
+      "latin": "Synodontis Eupterus",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998590\/bukusaku\/ikan_synodentis_qtp7wo.png"
+    },
+    {
+      "id": "21",
+      "name": "Ctenopoma",
+      "latin": "Ctenopoma Acutirostre",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998584\/bukusaku\/ikan_ctenopoma_cu4fsh.png"
+    },
+    {
+      "id": "22",
+      "name": "Belut Kuhli",
+      "latin": "Pangio Kuhli",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998580\/bukusaku\/belut_kuhli_slsb1c.png"
+    },
+    {
+      "id": "23",
+      "name": "Red Fin Shark",
+      "latin": "Epalzeorhynchos Frenatum",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998587\/bukusaku\/ikan_red_fin_fjpchs.png"
+    },
+    {
+      "id": "24",
+      "name": "Red Tail Shark",
+      "latin": "Epalzeorhynchus Bicolor",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998588\/bukusaku\/ikan_red_tail_shark_wqgogu.png"
+    },
+    {
+      "id": "25",
+      "name": "Bala Shark",
+      "latin": "Balantiocheilos Melanopterus",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998583\/bukusaku\/ikan_bala_shark_q2zzxw.png"
+    },
+    {
+      "id": "26",
+      "name": "Manfish",
+      "latin": "Pterophylum Sp",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998585\/bukusaku\/ikan_manfish_e5d0fj.png"
+    },
+    {
+      "id": "27",
+      "name": "Ikan Mas Koki",
+      "latin": "Carassius Auratus",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998585\/bukusaku\/ikan_mas_koki_vjg1ra.png"
+    },
+    {
+      "id": "28",
+      "name": "Ikan Komet",
+      "latin": "Carassius Auratus",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998585\/bukusaku\/ikan_mas_komet_vu9tbz.png"
+    },
+    {
+      "id": "29",
+      "name": "Ikan Corydoras",
+      "latin": "Corydoras Sp",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998583\/bukusaku\/ikan_corydoras_ohmduu.png"
+    },
+    {
+      "id": "30",
+      "name": "Dwarf Gourami",
+      "latin": "Trichogaster Lalius",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998587\/bukusaku\/ikan_mini_gouramy_jqoaas.png"
+    }
+  ]

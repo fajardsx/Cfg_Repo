@@ -1,0 +1,32 @@
+[
+    {
+      "id": "41",
+      "name": "Kapu-kapu",
+      "latin": "Pistia Stratiotes",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998590\/bukusaku\/Kapu_kapu_f9762x.png"
+    },
+    {
+      "id": "42",
+      "name": "Eceng Gondog",
+      "latin": "Eichhornia Crassipes",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998582\/bukusaku\/eceng_gondok_tohlgu.png"
+    },
+    {
+      "id": "43",
+      "name": "Ganggang Air",
+      "latin": "Egeria Densa",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998582\/bukusaku\/ganggang_air_odrnxk.png"
+    },
+    {
+      "id": "44",
+      "name": "Ganggang Rambut",
+      "latin": "Cabomba Sp",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998582\/bukusaku\/ganggang_rambut_l54g2y.png"
+    },
+    {
+      "id": "45",
+      "name": "Anubias",
+      "latin": "Anubias Sp",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998581\/bukusaku\/anubias_sp_rbqs1m.png"
+    }
+  ]

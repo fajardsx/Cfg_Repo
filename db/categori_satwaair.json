@@ -1,0 +1,32 @@
+[
+    {
+      "id": "36",
+      "name": "Nerite Snail",
+      "latin": "Neritina Natalensis",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998591\/bukusaku\/nerite_snail_mfqgf6.png"
+    },
+    {
+      "id": "37",
+      "name": "Rams Horn Snail",
+      "latin": "Planorbarius Sp",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998591\/bukusaku\/rams_horn_snail_uyvp4o.png"
+    },
+    {
+      "id": "38",
+      "name": "Red Cherry Shrimp",
+      "latin": "Neocaridina Heteropoda",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998591\/bukusaku\/red_cherry_shrimp_dvvz12.png"
+    },
+    {
+      "id": "39",
+      "name": "Mini Mexico Crayfish",
+      "latin": "Cambarellus Patzcuarensis",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998591\/bukusaku\/mini_mexico_cryfish_vmswel.png"
+    },
+    {
+      "id": "40",
+      "name": "Vampire Crab",
+      "latin": "Geosesarma",
+      "picture": "https:\/\/res.cloudinary.com\/dpkusklvu\/image\/upload\/v1665998593\/bukusaku\/vampire_crab_mtzvsd.png"
+    }
+  ]
