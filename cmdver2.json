@@ -10,13 +10,13 @@
       "id": 2,
       "nama": "/cco",
       "value": 2,
-      "deskripsi": "/cco = Chart Bulang"
+      "deskripsi": "/cco = Chart OS &amp; OB"
     },
     {
       "id": 3,
       "nama": "/cal",
       "value": 3,
-      "deskripsi": "/cal = Chart Buaya"
+      "deskripsi": "/cal = Chart Alligator"
     },
     {
       "id": 4,
@@ -28,13 +28,13 @@
       "id": 5,
       "nama": "/cha",
       "value": 5,
-      "deskripsi": "/cha = Chart Ikan Asin"
+      "deskripsi": "/cha = Chart Heiken Ashi"
     },
     {
       "id": 6,
       "nama": "/odt",
       "value": 6,
-      "deskripsi": "/odt = Chart Cepetan Buy"
+      "deskripsi": "/odt = Chart Fast Trade"
     },
     {
       "id": 7,
@@ -46,7 +46,7 @@
       "id": 8,
       "nama": "/cgp",
       "value": 8,
-      "deskripsi": "/cgp = Chart Selendang Guppy"
+      "deskripsi": "/cgp = Chart Guppy Line"
     },
     {
       "id": 9,
@@ -58,75 +58,13 @@
       "id": 10,
       "nama": "/aps",
       "value": 10,
-      "deskripsi": "/aps = Chart Performance"
-    }
-  ],
-  "CHART USDT": [
-    {
-      "id": 1,
-      "nama": "/cma",
-      "value": 1,
-      "deskripsi": "/cma = Chart Moving Average"
+      "deskripsi": "/aps = Chart Rotation Clockwise"
     },
     {
-      "id": 2,
-      "nama": "/cco",
-      "value": 2,
-      "deskripsi": "/cco = Chart Bulang"
-    },
-    {
-      "id": 3,
-      "nama": "/cal",
-      "value": 3,
-      "deskripsi": "/cal = Chart Buaya"
-    },
-    {
-      "id": 4,
-      "nama": "/cah",
-      "value": 4,
-      "deskripsi": "/cah = Chart Good Swing"
-    },
-    {
-      "id": 5,
-      "nama": "/cha",
-      "value": 5,
-      "deskripsi": "/cha = Chart Ikan Asin"
-    },
-    {
-      "id": 6,
-      "nama": "/odt",
-      "value": 6,
-      "deskripsi": "/odt = Chart Cepetan Buy"
-    },
-    {
-      "id": 7,
-      "nama": "/ctl",
-      "value": 7,
-      "deskripsi": "/ctl = Chart MultiTrendline"
-    },
-    {
-      "id": 8,
-      "nama": "/cgp",
-      "value": 8,
-      "deskripsi": "/cgp = Chart Selendang Guppy"
-    },
-    {
-      "id": 9,
-      "nama": "/psl",
-      "value": 9,
-      "deskripsi": "/psl = Chart Triangle line"
-    },
-    {
-      "id": 10,
-      "nama": "/cfr",
-      "value": 10,
-      "deskripsi": "/aps = Chart Performance"
-    },
-	{
       "id": 11,
       "nama": "/cfn",
       "value": 11,
-      "deskripsi": "/cfn = Chart Performance"
+      "deskripsi": "/cfn = Chart Spike Transaction"
     }
   ],
   "FILTER": [
@@ -134,43 +72,43 @@
       "id": 1,
       "nama": "bulang/",
       "value": 1,
-      "deskripsi": "bulang/ =Filter bulang"
+      "deskripsi": "bulang/ =Filter OS &amp; OB"
     },
     {
       "id": 2,
       "nama": "swb/",
       "value": 2,
-      "deskripsi": "swb/ =Filter swing buy"
+      "deskripsi": "swb/ =Filter Good Swing"
     },
     {
       "id": 3,
       "nama": "cfn/",
       "value": 3,
-      "deskripsi": "cfn/ =Filter undangan"
+      "deskripsi": "cfn/ =Filter Reversal OS"
     },
     {
       "id": 4,
       "nama": "ps20/",
       "value": 4,
-      "deskripsi": "ps20/ =Filter support 20"
+      "deskripsi": "ps20/ =Filter Reversal MA20"
     },
     {
       "id": 5,
       "nama": "hold/",
       "value": 5,
-      "deskripsi": "hold/ =Filter keep"
+      "deskripsi": "hold/ =Filter Proper hold"
     },
     {
       "id": 6,
       "nama": "asin/",
       "value": 6,
-      "deskripsi": "asin/ =Filter ikan asi"
+      "deskripsi": "asin/ =Filter Candle Heiken Ashi"
     },
     {
       "id": 7,
       "nama": "ps200/",
       "value": 7,
-      "deskripsi": "ps200/ =Filter support 200"
+      "deskripsi": "ps200/ =Filter Support MA200"
     }
   ],
   "INTERVAL": [

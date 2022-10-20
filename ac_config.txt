@@ -1,1 +1,1 @@
-{"url":"","debugmode":"false","maxrange":"100000","version":"1","iosshow":"1","androidshow":"1"}
+{"url":"","debugmode":"false","maxrange":"10000000","detectrooted":"false","version":"1","iosshow":"1","androidshow":"1"}
