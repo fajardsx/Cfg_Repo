@@ -1,0 +1,30 @@
+{
+    "BUILD_VER":1,
+    "API":"https://ykkkimiafarma.id/aplikasi",
+    "API_DEV":"https://ykkkimiafarma.id/aplikasi",
+    "PATH_IMG":"https://ykkkimiafarma.id/aplikasi/assets/uploads/userfile/",
+    "LIST_PENGAJUAN":[{
+        "id":0,
+        "title":"Bantuan Biaya Kesehatan/BPJS",
+        "button_label":"Bantuan Biaya Kesehatan/BPJS",
+        "typeform":"bpjs",
+        "typetiket":"bpjs",
+        "is_aktif":1
+    },
+    {
+        "id":1,
+        "title":"Bantuan Biaya Pemakaman",
+        "button_label":"Bantuan Biaya Pemakaman",
+        "typeform":"biaya_pemakaman",
+        "typetiket":"biaya-pemakaman",
+        "is_aktif":1
+    },
+    {
+        "id":2,
+        "title":"Bantuan Biaya Sosial Lainnnya",
+        "button_label":"Bantuan Biaya Sosial Lainnnya",
+        "typeform":"biaya_bantuansosial",
+        "typetiket":"",
+        "is_aktif":1
+    }]
+}
