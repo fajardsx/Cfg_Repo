@@ -26,18 +26,18 @@
       "title": "Hi fajar pelangi, Tagihan pembayaran, #202212141129450001 telah terbit",
       "type": "general",
       "updated_at": "2022-12-14 12:29:49",
-      "users_id": 1
+      "users_id": 1 
     }
   ],
   "videos": [
     {
       "id": 0,
-      "title": "Opsi Take Profit",
-      "pic_video": "",
+      "title": "System Screening",
+      "pic_video": null,
       "mentor": {
-        "pic_mentor": "",
-        "nama_mentor": "",
-        "gelar_mentor": ""
+        "pic_mentor": null,
+        "nama_mentor": "Agus Sudarsono",
+        "gelar_mentor": "Profesional Trader"
       }
     }
   ],
