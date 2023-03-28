@@ -1,24 +1,5 @@
 {
-	"notification":[{"body": "Tagihan pembayaran #202303031644570001 telah terbit. Silahkan selesaikan
-pembayaran sebelum 05 Mar 2023 | 16:44.", "classes_id": 0, "created_at": "2023-0
-3-03 16:45:04", "deleted_at": null, "icon": "https://berdagangangka.id/image/not
-ification/notificaiton-payment-alert.png?202211270136?202211270136", "id": 140,
-"is_read": 1, "notification_type": "user", "title": "Hi fajar pelangi, Payment u
-/ Angka Bicara, #202303031644570001 telah terbit", "type": "general", "updated_a
-t": "2023-03-03 16:45:04", "users_id": 1}, {"body": "Tagihan pembayaran #2022121
-41129450001 telah terbit. Silahkan selesaikan pembayaran sebelum 16 Dec 2022 | 1
-1:29.", "classes_id": 0, "created_at": "2022-12-14 12:29:49", "deleted_at": null
-, "icon": "https://berdagangangka.id/image/notification/notificaiton-payment-ale
-rt.png?202211270136?202211270136", "id": 33, "is_read": 1, "notification_type":
-"user", "title": "Hi fajar pelangi, Tagihan pembayaran, #202212141129450001 tela
-h terbit", "type": "general", "updated_at": "2022-12-14 12:29:49", "users_id": 1
-}, {"body": "Tagihan pembayaran #202212081414390001 telah terbit. Silahkan seles
-aikan pembayaran sebelum 10 Dec 2022 | 14:14.", "classes_id": 0, "created_at": "
-2022-12-08 15:14:44", "deleted_at": null, "icon": "https://berdagangangka.id/ima
-ge/notification/notificaiton-payment-alert.png?202211270136?202211270136", "id":
- 11, "is_read": 1, "notification_type": "user", "title": "Hi fajar pelangi, Tagi
-han pembayaran, #202212081414390001 telah terbit", "type": "general", "updated_a
-t": "2022-12-08 15:14:44", "users_id": 1}],
+	"notification":[],
 	"videos":[
 		{
 			"id":0,
@@ -27,13 +8,12 @@ t": "2022-12-08 15:14:44", "users_id": 1}],
 			"mentor":{
 				"pic_mentor":"",
 				"nama_mentor":"",
-				"gelar_mentor":"",
+				"gelar_mentor":""
 			}
 		}
 	],
 	"events":[
-	{"event": {"body": "<p>Semua di informasikan pada H-1 agar anda bisa menyiapkan diri an
-da dengan baik &amp; santai.</p><p>Sistem trading yang saya jalankan bernama, si
+	 {"body": "<p>Semua di informasikan pada H-1 agar anda bisa menyiapkan diri anda dengan baik &amp; santai.</p><p>Sistem trading yang saya jalankan bernama, si
 stem trading Tapak Naga</p><p>menganut aliran trading, Swing Trading dan TrendFo
 llower</p><p><br></p><p>Dengan kalkulasi money management yang tepat</p><p>serta
  penerapan market timing yang didukung oleh data yang solid</p><p>yang akan meny
@@ -41,10 +21,7 @@ arankan untuk trade hanya posisi kecil ketika market sedang tidak baik</p><p>dan
  trade dengan percaya diri ambil posisi besar ketika market sedang bagus.</p><p>
 <br></p><p>sistem trading Tapak Naga, cocok untuk orang sibuk</p><p>karena tidak
  perlu monitor market ketika market sedang berjalan</p><p>seluruh order, menggun
-akan Automatic Order</p><div><br></div>", "categories_id": null, "classes_id": null, "created_at": "2022-10-26 08:53:05", "deleted_at": null, "featured_image":
-"https://berdagangangka.id/uploads/2/2022-11/image_251.jpg", "id": 23, "json_meta": null, "slug": null, "tipe": "active-event", "title": "Trading Class Event 20
-23", "updated_at": "2022-11-18 07:35:56", "views": null}
-}
+akan Automatic Order</p><div><br></div>", "categories_id": null, "classes_id": null, "created_at": "2022-10-26 08:53:05", "deleted_at": null, "featured_image":"https://berdagangangka.id/uploads/2/2022-11/image_251.jpg", "id": 23, "json_meta": null, "slug": null, "tipe": "active-event", "title": "Trading Class Event 2023", "updated_at": "2022-11-18 07:35:56", "views": null}
 	],
 	"article":[
 	{"categories_id": 22, "classes_id": 61, "created_at": "2022-12-14 10:37:54", "deleted_at": null, "featured_image": null, "id": 33, "json_meta": null, "slug": "tabel-tn-14122022", "tipe": "ARTICLE", "title": "Tabel TN 14122022", "updated_at": null
