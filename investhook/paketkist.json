@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "message": "Success get package list",
+  "data": [
+    {
+      "id": 2,
+      "title": "Angka Bicara 6 Bulan",
+      "description": "<p>Untuk informasi lebih lanjut dapat diakses pada link berikut :&nbsp;</p><p><a href=\"https://berdagangangka.id/\" target=\"_blank\">Selengkapnya...</a></p>",
+      "subscribe_month": 6,
+      "package_type": "angka-bicara",
+      "is_show": "1",
+      "price": 7500000
+    },
+    {
+      "id": 3,
+      "title": "Angka Bicara 12 Bulan",
+      "description": "<p>Untuk informasi lebih lanjut dapat diakses pada link berikut :&nbsp;</p><p><a href=\"https://berdagangangka.id/\" target=\"_blank\">Selengkapnya...</a></p>",
+      "subscribe_month": 12,
+      "package_type": "angka-bicara",
+      "is_show": "1",
+      "price": 9000000
+    }
+  ]
+}
