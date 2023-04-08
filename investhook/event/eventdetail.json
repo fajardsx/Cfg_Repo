@@ -14,7 +14,9 @@
         "tipe": "active-event",
         "title": "Trading Class Event 2023",
         "updated_at": "2022-11-18 07:35:56",
-        "views": null
+        "views": null,
+        "link_register":"https://www.eventbrite.com/d/indonesia--jakarta-pusat/events/",
+        "price":100000
       }
     }
   ]
