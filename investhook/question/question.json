@@ -1,0 +1,36 @@
+{
+  "code": 200,
+  "message": "Success get quiz list",
+  "data": {
+    "questions": [
+      {
+        "id": 0,
+        "post_tests_id": 0,
+        "question_content":"Jawab pertanyaan berikut?",
+        "answer_options": [
+          {
+            "id": 0,
+            "answer_option": "Pilihan A",
+            "answer_content": "Pilihan A"
+          },
+          {
+            "id": 1,
+            "answer_option": "Pilihan B",
+            "answer_content": "Pilihan B"
+          },
+          {
+            "id": 2,
+            "answer_option": "Pilihan B",
+            "answer_content": "Pilihan B"
+          },
+          {
+            "id": 3,
+            "answer_option": "Pilihan B",
+            "answer_content": "Pilihan B"
+          }
+        ]
+      }
+    ]
+  },
+  "time_limit": 30000
+}
