@@ -1,0 +1,7 @@
+{
+    "BUILD_VER":3,
+    "API":"https://api.skinsation.id",
+    "API_DEV":"http://api.insideyou.test:8000/api/v1",
+    "API_STG":"https://api-stg.insideyou.id/api/v1",
+    "PASS_SETTING":"110888"
+}
