@@ -6,20 +6,20 @@
     "bundle_version": "2",
     "is_maintenis": "false",
     "applink": "https://play.google.com/store/apps/details?id=com.prims.client",
-    "all_access": "false",
+    "all_access": "true",
     "LANG": "https://raw.githubusercontent.com/fajardsx/Directory_Asset/main/P_LANG.json",
     "MENU_HOME": {
       "0": {
         "title": "Residen",
         "icons": "iconResident",
         "router": "HomeDasboard",
-        "enable": "false"
+        "enable": "true"
       },
       "1": {
         "title": "Fasilitas\nOlahraga",
         "icons": "iconOlahRaga",
         "router": "ScreenOlahraga",
-        "enable": "false"
+        "enable": "true"
       },
       "2": {
         "title": "Servis",
