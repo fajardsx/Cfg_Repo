@@ -14,18 +14,6 @@
         "icons": "iconResident",
         "router": "HomeDasboard",
         "enable": "true"
-      },
-      "1": {
-        "title": "Fasilitas\nOlahraga",
-        "icons": "iconOlahRaga",
-        "router": "ScreenOlahraga",
-        "enable": "true"
-      },
-      "2": {
-        "title": "Servis",
-        "icons": "iconServis",
-        "router": "ScreenServisHome",
-        "enable": "true"
       }
     }
   },
@@ -43,18 +31,6 @@
         "title": "Residen",
         "icons": "iconResident",
         "router": "HomeDasboard",
-        "enable": "true"
-      },
-      "1": {
-        "title": "Fasilitas\nOlahraga",
-        "icons": "iconOlahRaga",
-        "router": "ScreenOlahraga",
-        "enable": "true"
-      },
-      "2": {
-        "title": "Services",
-        "icons": "iconServis",
-        "router": "ScreenServisHome",
         "enable": "true"
       }
     }
