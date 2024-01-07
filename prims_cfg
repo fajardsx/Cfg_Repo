@@ -49,7 +49,7 @@
         "title": "Fasilitas\nOlahraga",
         "icons": "iconOlahRaga",
         "router": "ScreenOlahraga",
-        "enable": "true"
+        "enable": "false"
       },
       "2": {
         "title": "Services",
