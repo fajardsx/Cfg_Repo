@@ -50,12 +50,6 @@
         "icons": "iconServis",
         "router": "ScreenServisHome",
         "enable": "true"
-      },
- "2": {
-        "title": "Services",
-        "icons": "iconServis",
-        "router": "HomeServis",
-        "enable": "true"
       }
     }
   }
