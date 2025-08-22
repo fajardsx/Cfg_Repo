@@ -46,6 +46,12 @@
         "enable": "true"
       },
       "1": {
+        "title": "Fasilitas\nOlahraga",
+        "icons": "iconOlahRaga",
+        "router": "ScreenOlahraga",
+        "enable": "false"
+      },
+      "1": {
         "title": "Services",
         "icons": "iconServis",
         "router": "ScreenServisHome",
@@ -54,3 +60,4 @@
     }
   }
 }
+
