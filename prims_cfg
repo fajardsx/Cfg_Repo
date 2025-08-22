@@ -51,7 +51,7 @@
         "router": "ScreenOlahraga",
         "enable": "false"
       },
-      "1": {
+      "2": {
         "title": "Services",
         "icons": "iconServis",
         "router": "ScreenServisHome",
@@ -60,4 +60,5 @@
     }
   }
 }
+
 
